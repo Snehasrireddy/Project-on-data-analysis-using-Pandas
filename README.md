@@ -1,11 +1,9 @@
-# Project-on-data-analysis-using-Pandas
-
-Case Study - 1 (Ecommerce Purchases)
+#Case Study - 1 (Ecommerce Purchases)
 To perform data analysis, I have solved few of the questions using Pandas 
 
 Questions Solved
 
-Display Top 10 Rows of The Dataset
+* Display Top 10 Rows of The Dataset
 
 Check Last 10 Rows of The Dataset
 
