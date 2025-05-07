@@ -1,4 +1,5 @@
-#Case Study - 1 (Ecommerce Purchases)
+Case Study - 1 (Ecommerce Purchases)
+
 To perform data analysis, I have solved few of the questions using Pandas 
 
 Questions Solved
